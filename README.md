@@ -17,6 +17,6 @@ This is a simple Rock Paper Scissors game I built as part of my JavaScript learn
 
 📅 **Day 7 of JS Journey**  
 🚀 Learning in public  
-📌 By Tochukwu (@YourHandle)
+📌 By Tochukwu (@OfojebeT367)
 
 
