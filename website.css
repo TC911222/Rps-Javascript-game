@@ -1,0 +1,29 @@
+
+
+ .paper {
+  background-color: orangered;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+} 
+ .rock {
+  background-color: blue;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+} 
+ .scissors {
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+} 
+/* This is a comment */
+/* javascript*/
+
